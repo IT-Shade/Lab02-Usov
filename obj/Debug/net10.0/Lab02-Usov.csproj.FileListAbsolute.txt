@@ -12,3 +12,4 @@ c:\Users\Пользователь\Documents\Lab02-Usov\obj\Debug\net10.0\refint\
 c:\Users\Пользователь\Documents\Lab02-Usov\obj\Debug\net10.0\Lab02-Usov.pdb
 C:\Users\Пользователь\Documents\Lab02-Usov\obj\Debug\net10.0\Lab02-Usov.genruntimeconfig.cache
 C:\Users\Пользователь\Documents\Lab02-Usov\obj\Debug\net10.0\ref\Lab02-Usov.dll
+c:\Users\Пользователь\Documents\Lab02-Usov\obj\Debug\net10.0\Lab02-Usov.sourcelink.json
